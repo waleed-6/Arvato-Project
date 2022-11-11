@@ -12,14 +12,8 @@
 
 
 ## Description <a name="Description"></a>
+analyze demographics data for customers of a mail-order sales company in Germany (arvato company), comparing it against demographics information for the general population.
 
-Analyzing message of different disaster have greet impact on ability to help other in need 
-That can really help  in saving people live , this project is part of data science nanodegree 
-Using NLP we were able to analyze message that predict the type of disaster 
-The project contain 3 key :
-1-	Building ETL pipeline 
-2-	Building machine learning pipeline 
-3-	Run app that predict type of disaster in real time 
 
 ## files in the repository <a name="files"></a>
 ~~~~~~~
