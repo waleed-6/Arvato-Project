@@ -1,6 +1,6 @@
 
 # Disaster-Response
-![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/pic/arvato_company.png)
+![alt text](https://github.com/waleed-6/Arvato-Project/blob/main/pic/arvato_company.png)
 
 ### Table of Contents
 
