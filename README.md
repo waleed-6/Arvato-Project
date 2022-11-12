@@ -27,33 +27,11 @@ README.md
 ## Installation <a name="installation"></a>
 
 ```
-git clone https://github.com/waleed-6/Disaster-Response-Pipeline
+git clone https://github.com/waleed-6/Arvato-Project/edit/main/README.md
 ```
-### To create a processed sqlite db
-```
-python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
-```
-### To train and save a pkl model
-```
-python ./models/train_classifier.py './data/InsertDatabaseName.db' './models/model.pkl'.
-```
-### To deploy the application locally
-```
-python run.py
-```
-
-## Screenshots<a name="Screenshots"></a>
-![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%201.png)
-
--------------------------------
-![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%202.png)
-
 
 
 ## Results<a name="results"></a>
-the massage 'i am thirsty' is enterd 
-![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot4.png)
 
-and the result category was
-
-![alt text](https://github.com/waleed-6/Disaster-Response-Pipeline/blob/main/Screenshots/Screenshot%205.png)
+The main findings of the code can be found at the post available here https://medium.com/@wleedas38/is-he-she-going-to-college-20441c1ad585
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
