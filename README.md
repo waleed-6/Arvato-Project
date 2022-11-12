@@ -19,8 +19,7 @@ analyze demographics data for customers of a mail-order sales company in Germany
 ~~~~~~~
 pic
 | |- arvato_company.png
-| |- 
-
+Arvato Project.ipynb
 README.md
 ~~~~~~~
 
