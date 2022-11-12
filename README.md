@@ -7,8 +7,7 @@
 1. [Description](#Description)
 2. [files in the repository](#files)
 3. [Installation](#installation)
-4. [Screenshots](#Screenshots)
-5. [Results](#results)
+4. [Results](#results)
 
 
 ## Description <a name="Description"></a>
