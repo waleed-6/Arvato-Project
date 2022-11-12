@@ -32,4 +32,4 @@ git clone https://github.com/waleed-6/Arvato-Project/edit/main/README.md
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here https://medium.com/@wleedas38/is-he-she-going-to-college-20441c1ad585
+The main findings of the code can be found at the post available here https://medium.com/@wleedas38/arvato-project-47374803c7cd
